@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Raaj K. I have been working as a Shopify developer and Wordpress for over six years.  I am specialized  in creating fully customizable, mobile-first websites. I really enjoy learning new technologies related to web development like React, Vue. I also enjoy wireframing, ui, ux and design in general. 
 <!--
 **blueGen135/blueGen135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
