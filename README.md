@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is Raaj K
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+ I have been working as a Shopify developer and Wordpress for over six years. I am specialized in creating fully customizable, mobile-first websites. I really enjoy learning new technologies related to web development like React, Vue. I also enjoy wireframing, ui, ux and design in general.
+
+Skills: Shopify Theme Development, Wordpress, VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
