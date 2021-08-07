@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Raaj K</h1>
+<h1 align="center">Hi 👋, I'm Raaj </h1>
 <h3 align="center">A passionate developer and designer from India</h3>
 
 ![](https://github.com/blueGen135/blueGen135/blob/main/cover.png)
