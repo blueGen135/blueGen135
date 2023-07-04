@@ -22,6 +22,7 @@
 - 🟠 <a href="https://greenstaradvis.wpengine.com/" target="_blank">Green Star Advisor</a>
 - 🟠 <a href="https://www.acklandmediaframes.com/" target="_blank">Ackland Media Frames</a>
 ## Shopify Projects:
+- 🟠 <a href="https://www.champdefleurs.fr/" target="_blank">Champ De Fleurs</a>
 - 🟠 <a href="https://epjewelry.shop/" target="_blank">EP Jewelry</a>
 - 🟠 <a href="https://www.sweatindustryapparel.com/" target="_blank">Sweat Industry Apparel</a>
 - 🟠 <a href="https://opheliehats.com/" target="_blank">Ophelie Hats</a>
