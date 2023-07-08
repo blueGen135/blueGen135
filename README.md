@@ -15,10 +15,8 @@
 - 🟠 Laravel
 - 🟠 React
 - 🟠 Vue Js
- 
 ## Wordpress Projects:
 - 🟠 <a href="https://constructionlgt.com/" target="_blank">Construction LGT</a>
-- 🟠 <a href="https://fiveclinics.com/" target="_blank">Five Clinics</a>
 - 🟠 <a href="https://greenstaradvis.wpengine.com/" target="_blank">Green Star Advisor</a>
 - 🟠 <a href="https://www.acklandmediaframes.com/" target="_blank">Ackland Media Frames</a>
 ## Shopify Projects:
